@@ -1,16 +1,5 @@
 name: pub_booklist
-description: This advanced Flutter app, powered by Firebase authentication, revolutionizes your academic journey. Seamlessly manage your digital library with the ultimate PDF booklist solution. Empowering users with a rich feature set, it includes a versatile search function and even search by voice input for effortless exploration. Take your learning experience to the next level with the ability to add and delete notes directly in your books.
-
-Key Features:
-
-Secure Firebase authentication for personalized access
-Intuitive search function for quick book discovery
-Voice search for hands-free exploration
-Note-taking functionality for enhanced learning
-Access to PDF books from all university departments
-Organized by semesters for easy navigation
-Read books online or download for offline access
-Elevate your academic journey with this feature-packed PDF booklist app, designed to empower students, educators, and book enthusiasts alike..
+description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
